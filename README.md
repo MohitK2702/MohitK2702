@@ -11,6 +11,6 @@ I want to gain experience and explore different domains in Cyber-Security by hav
 * 🌍  I'm based in Pune,India
 * ✉️  You can contact me at [mohitkodwate27@gmail.com](mailto:mohitkodwate27@gmail.com)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/LEO27k.png" alt="Your Image Badge" />
+
 
 
